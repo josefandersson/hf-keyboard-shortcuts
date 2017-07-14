@@ -1,0 +1,9 @@
+{
+    "bitwise": true,
+    "esversion": 6,
+    "eqeqeq": true,
+    "freeze": true,
+    "funcscope": true,
+    "latedef": true,
+    "maxdepth": 6
+}
